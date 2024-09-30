@@ -1,11 +1,11 @@
 {
     "BinanceKeys": {
-        "API_Key": "aaaaaaaaaaaaaaaaaaaaaaaaaaa",
-        "Secret_Key": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        "API_Key": "API-KEY",
+        "Secret_Key": "SECRET-KEY"
     },
     "TestKeys": {
-        "Test_API_Key": "aaaaaaaaaaaaaaaaaaaaaaa",
-        "Test_Secret_Key": "aaaaaaaaaaaaaaaaaaaaaaaaa"
+        "Test_API_Key": "API-KEY",
+        "Test_Secret_Key": "SECRET-KEY"
     },
     "Testing": "True"
 }
